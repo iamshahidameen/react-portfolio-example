@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Hamza Anwar. Fictional person for preview purposes :) I'm working with newest front-end frameworks like React and wanted to learn all the other tech stacks like Angular, Vue etc. Please review my resume. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -13,7 +13,7 @@
       {
         "title": "Animal Shelter",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processes and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -21,16 +21,12 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
           }
         ]
       },
@@ -65,53 +61,65 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
           }
+          
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "Immentia",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "07.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JS, React 8/9/10"
         ],
         "technologies": [
           "REST API",
           "RxJS",
-          "JavaScript",
+          "HTML5",
+          "CSS3",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "jQuery",
+          "JavaScript"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Fliegen IT Solutions",
+        "title": "Front-end Developer",
+        "years": "09.2019 - 07.2021",
         "mainTech": [
-          "Angular 7/8"
+          "HTML/CSS JS 7/8"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "HTML5",
+          "CSS3",
+          "Bootstrap",
+          "jQuery",
           "JavaScript",
-          "DHTMLX Gantt"
+          "PHP",
+          "MySQL"
+        ]
+      },
+      {
+        "company": "Tech Valley Pakistan",
+        "title": "Jr. Frontend Developer (Intern)",
+        "years": "05.2018 - 09.2018",
+        "mainTech": [
+          "HTML/CSS JS 7/8"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS3",
+          "Bootstrap",
+          "jQuery",
+          "JavaScript"
         ]
       }
     ]

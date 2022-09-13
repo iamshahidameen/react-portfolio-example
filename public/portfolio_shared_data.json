@@ -1,11 +1,11 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Muhammad Hamza Anwar",
+      "titles": [ "Front-end Developer", "Dev Team lead", "Web Enthusiast" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/hamzaanwardev",
           "class": "fab fa-github"
         },
         {
@@ -29,11 +29,6 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
           "level": "90"
@@ -52,11 +47,6 @@
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
         },
         {
           "name": "MySql",
