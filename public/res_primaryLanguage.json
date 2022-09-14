@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Hamza Anwar. Fictional person for preview purposes :) I'm working with newest front-end frameworks like React and wanted to learn all the other tech stacks like Angular, Vue etc. Please review my resume. Thank you 💜",
+      "description": "👋 I'm Hamza Anwar, Sr. Front-end Developer :) I'm working with newest front-end frameworks like React and wanted to learn all the other tech stacks like Angular, Vue etc. Please review my resume. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -51,12 +51,13 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Al Masajid",
+        "startDate": "2021",
+        "description": "One of the first apps I was working on my role in immentia. I had to develop front-end implementation for app that shows info related to Mosque, Prayer times and Masjid Imam. I've learned a lot!",
         "images": [
           "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/adventure/p2.jpg",
+          "images/portfolio/adventure/p3.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
